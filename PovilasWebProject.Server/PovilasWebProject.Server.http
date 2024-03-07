@@ -1,0 +1,6 @@
+@PovilasWebProject.Server_HostAddress = http://localhost:5291
+
+GET {{PovilasWebProject.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

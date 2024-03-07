@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PovilasWebProject.Server", "PovilasWebProject.Server\PovilasWebProject.Server.csproj", "{A0B95F6B-6226-4D0F-A718-BC153E740332}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "povilaswebproject.client", "povilaswebproject.client\povilaswebproject.client.esproj", "{83E9088D-8591-408A-A972-26364449F756}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0B95F6B-6226-4D0F-A718-BC153E740332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0B95F6B-6226-4D0F-A718-BC153E740332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0B95F6B-6226-4D0F-A718-BC153E740332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0B95F6B-6226-4D0F-A718-BC153E740332}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83E9088D-8591-408A-A972-26364449F756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83E9088D-8591-408A-A972-26364449F756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83E9088D-8591-408A-A972-26364449F756}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{83E9088D-8591-408A-A972-26364449F756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83E9088D-8591-408A-A972-26364449F756}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83E9088D-8591-408A-A972-26364449F756}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9D393A4-CAE8-443D-887A-0DD091A39ED5}
+	EndGlobalSection
+EndGlobal
